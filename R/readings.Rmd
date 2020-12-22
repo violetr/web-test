@@ -1,0 +1,72 @@
+---
+title: "Readings"
+bibliography: my_lib.bib
+csl: cit.csl
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, results = "asis"}
+cat('+++')
+cat("\n\n")
+cat('fragment = \\"content\\"\n\n')
+cat('date =\\"', Sys.Date(), '\\"\n\n')
+cat('weight = 100\n\n')
+cat('+++')
+```
+
+## Readings
+
+These are some initial readings about reproducibility and open science, the relationship between rigor and replicability, tools to improve research practices, challenges, and solutions.
+
+### Overview
+
+* @Baker_2016
+
+### Is Research Reproducible?
+
+#### Theoretical
+
+* @Ulrich_2020
+
+#### Empirical
+
+* @Collaboration_2015
+* @Stodden_2018
+* @Archmiller_2020
+
+### Questionable Research Practices & Researcher Degrees of Freedom
+
+* @John_2012
+* @Silberzahn_2018
+* @Steegen_2016
+
+### Data Sharing
+
+* @Miyakawa_2020
+
+### Credit
+
+* @Lamprecht_2020
+* @Moher_2020
+
+### Pipelines, Automation, & Tools
+
+* @Beaulieu-Jones_2017
+* @White_2019
+
+### Diversity, Equity, and Inclusion
+
+* @Bahlai_2019
+* @OCSDNet_2019
+* @Murphy_2020
+
+### Solutions
+
+* @Markowetz_2015
+* @Nosek_2015
+* @Lowndes_2017
+

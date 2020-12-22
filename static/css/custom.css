@@ -1,0 +1,19 @@
+.transbox {
+  margin: 10px;
+  padding: 10px;
+  background-color: #f8f9fa;
+  opacity: 0.7;
+}
+
+.py-5 {
+  padding-top: 1rem!important;
+}
+
+.my-4 {
+  margin-top: .5rem!important;
+  margin-bottom: .5rem!important;
+}
+
+li {
+  margin: 10px;
+}
