@@ -6,29 +6,29 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "UF ReproducibiliTea"
-subtitle = "**Reproducibility and Open Science Journal Club**"
+title = "GeoNodos"
+subtitle = "**Aplicaciones geofísicas**"
 
 [header]
-  image = "smathers.jpg"
+  
 
 [asset]
-  image = "uf-repro-logo.svg"
+  image = "geonodos_test.png"
   width = "300px" # optional - will default to image width
   # height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Why Reproducibility?"
+  text = "Servicios"
   url = "#motivations"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "FAQ"
+  text = "Novedades"
   url = "#faq"
   color = "primary"
 
 [[buttons]]
-  text = "Contact"
+  text = "Sobre nosotros"
   url = "#contact"
   color = "dark"
 

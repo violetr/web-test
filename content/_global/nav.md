@@ -14,6 +14,6 @@ sticky = true
 
 # Branding options
 [asset]
-  image = "uf-repro-banner-logo.svg"
-  text = "UF Reproducibilitea"
+  image = "geonodos_test.png"
+  text = "GeoNodos"
 +++

@@ -6,4 +6,4 @@ weight = 10
   icon = "far fa-envelope"
 +++
 
-Subscribe to our [mailing list](https://lists.ufl.edu/cgi-bin/wa?SUBED1=REPRODUCIBILITEA&A=1)!
+Contáctese a nuestro correo [marcelo.roizman@geonodos.com](marcelo.roizman@geonodos.com)
