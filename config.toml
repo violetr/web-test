@@ -25,13 +25,13 @@ googleAnalytics = ""
      unsafe = true
 
 [params]
-  name = "UF ReproducibiliTea"
-  description = "Reproducibility and Open Science Journal Club"
+  name = "GeoNodos"
+  description = "Aplicaciones geofísicas"
   debug = true
   unsafeEvents = true # Default is false. Enables ?event=type format of url events.
 
   [params.style]
-    #background = "secondary"
+    background = "secondary"
 
   # Theme customizations
   # Assets relative to 'static/'
@@ -57,13 +57,16 @@ googleAnalytics = ""
 
   [params.colors]
     primary = "#00838F"
-    secondary = "#B1BCC7"
+    secondary = "#ffffff"
     success = "#008f54"
     info = "#00c9dc"
-    warning = "#fdf314"
+    warning = "#ffffff"
     danger = "#dc1200"
     light = "#f8f9fa"
-    dark = "#343a40"
+    dark = "#000000"
+    naranja = "#d89000"
+    turquesa = "#00bfc4"
+    fucsia = "#ff62bc"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # footer/footer_social menus are displayed in footer fragment.
@@ -76,18 +79,13 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.main]]
-  url = "/code-of-conduct"
-  name = "Code of Conduct"
-  weight = 20
-
-[[menu.main]]
   url = "/meetups"
-  name = "Meetups"
+  name = ""
   weight = 30
 
 [[menu.main]]
   url = "/papers"
-  name = "Papers"
+  name = "Servicios"
   weight = 40
 
 [[menu.main]]

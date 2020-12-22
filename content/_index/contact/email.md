@@ -6,4 +6,4 @@ weight = 10
   icon = "far fa-envelope"
 +++
 
-Contáctese a nuestro correo [marcelo.roizman@geonodos.com](marcelo.roizman@geonodos.com)
+Contáctese a través de nuestro correo [marcelo.roizman@geonodos.com](marcelo.roizman@geonodos.com)

@@ -7,7 +7,7 @@ background = "light" # can influence the text color
 particles = true
 
 title = "GeoNodos"
-subtitle = "**Aplicaciones geofísicas**"
+subtitle = "**GeoNodos**"
 
 [header]
   
@@ -20,16 +20,16 @@ subtitle = "**Aplicaciones geofísicas**"
 [[buttons]]
   text = "Servicios"
   url = "#motivations"
-  color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "naranja" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Novedades"
   url = "#faq"
-  color = "primary"
+  color = "turquesa"
 
 [[buttons]]
   text = "Sobre nosotros"
   url = "#contact"
-  color = "dark"
+  color = "fucsia"
 
 +++
