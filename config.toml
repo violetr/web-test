@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "/"
+baseurl = "http://www.geonodos.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "UF ReproducibiliTea"
+title = "GeoNodos"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
@@ -60,13 +60,14 @@ googleAnalytics = ""
     secondary = "#ffffff"
     success = "#008f54"
     info = "#00c9dc"
-    warning = "#ffffff"
-    danger = "#dc1200"
-    light = "#f8f9fa"
-    dark = "#000000"
     naranja = "#d89000"
     turquesa = "#00bfc4"
     fucsia = "#ff62bc"
+    warning = "#ffffff"
+    danger = "#dc1200"
+    light = "#f8f9fa"
+    dark = "#d89000"
+
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # footer/footer_social menus are displayed in footer fragment.
@@ -90,7 +91,7 @@ googleAnalytics = ""
 
 [[menu.main]]
   url = "/resources"
-  name = "Resources"
+  name = "Sobre nosotros"
   weight = 9001
 
 [[menu.copyright_footer]]

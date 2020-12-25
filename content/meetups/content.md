@@ -12,6 +12,6 @@ title = "Novedades"
 ---
 ## 
 
-under construction
+No news
 
 ---
